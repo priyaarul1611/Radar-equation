@@ -57,6 +57,8 @@ plot(Gt, Rmax3);
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/363dea2b-9662-4d09-9eb1-9f508b9dcf38" />
 
 **Tabulation:**
+<img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/da09f514-f77a-4ff1-a373-b5e4e3290855" />
+
 
 
 **Result:**
